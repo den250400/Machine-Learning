@@ -6,4 +6,5 @@
  If you want to train the network on your own dataset, drop your images to Data folder, and then label them using the Dataset Labeling notebook.
  
  If you want to use pretrained weights, you may download them from here(Github doesn't allow upload files which are more than 25 Mb) and drop them to Saved models folder. Don't forget to update the model name inside the Sapphire 2 Inference file.
+ 
  Face detector: https://drive.google.com/drive/folders/1qUSGh0upudm6LpY9YW0uUG4tubfftXyi?usp=sharing
