@@ -4,9 +4,9 @@
  This repo contains not only the network itself, but also a utility program for hand-labeling, which takes .jpg or .png images, normalizes them and saves the whole training set as .npy file. It also does image augmentation, which can be used to increase the size of the dataset by the factor of hundreds. Thus, good performance can be achieved using only around 100 different images, which is only 20-30 minutes hand-labeling time!
 
 ### Dependencies
-..* Tensorflow
-..* OpenCV
-..* Numpy
+⋅⋅* Tensorflow
+⋅⋅* OpenCV
+⋅⋅* Numpy
 
  If you want to train the network on your own dataset, drop your images to Data folder, and then label them using the Dataset Labeling notebook.
  
